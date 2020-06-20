@@ -1,17 +1,12 @@
-<!-- Instructions:
-- Download and unzip Mojave dynamic background here: https://files.rb.gd/mojave_dynamic.zip
-- Rename the extracted folder as "mojave-background" (Excuse the trouble but I renamed it on my machine and already use that path in the XML file)
-- Save this xml file next to the Mojave background files
-- Fix the path to the background images below (better using absolute path)
-- Lastly, either:
-  + GNOME: Use gnome-tweaks tool to select this XML as wallpaper (as default wallpaper settings won't let you choose wallpaper from custom path)
-  + MATE: Go to background setting (in Appearance) > Choose +Add... > make sure **All files** filter is selected at the bottom right > Then choose mojave.xml
+<!-- 
+@created by ayshik halder
+ #tested on Ubuntu 20.04 on Gnome 3.36
 -->
 <background>
   <starttime>
-    <year>2014</year>
+    <year>2020</year>
     <month>01</month>
-    <day>11</day>
+    <day>01</day>
     <hour>0</hour>
     <minute>00</minute>
     <second>00</second>
